@@ -1,0 +1,4 @@
+1. What is invoice number, order Date & Product Name?
+2. What is order id, shipping mode and quantity?
+3. How much is the discount and tax?
+

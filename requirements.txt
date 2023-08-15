@@ -1,0 +1,8 @@
+gradio
+PyPDF2
+pdf2image
+poppler-utils
+langchain
+openai
+faiss-cpu
+tiktoken
