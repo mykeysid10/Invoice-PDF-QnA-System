@@ -8,7 +8,7 @@
 
 ###### Approach I Workflow (Zero Shot): LangChain + GPT
 
-![Workflow]()
+![Workflow](https://raw.githubusercontent.com/mykeysid10/Invoice-PDF-QnA-System/main/Workflow.PNG)
 
 ###### Approach I Demo Video:
 
