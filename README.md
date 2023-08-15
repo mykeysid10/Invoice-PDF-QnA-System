@@ -1,6 +1,6 @@
-# Invoice PDF QnA System (Information Retrieval)
+# Invoice PDF QnA System
 
-#### Domain: Information Retrieval | NLP 
+#### Domain: Information Retrieval | NLP - QnA
 
 #### Domain Knowledge Figure
 
