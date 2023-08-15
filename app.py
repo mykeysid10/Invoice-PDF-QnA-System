@@ -11,7 +11,7 @@ from langchain.llms import OpenAI
 # Load the model and initialize necessary components
 embeddings = OpenAIEmbeddings()
 chain = load_qa_chain(OpenAI(), chain_type="stuff")
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "Enter_Your_Key"
 
 # Method to generate answers
 def generate_answer(pdf_file, question):
