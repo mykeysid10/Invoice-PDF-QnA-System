@@ -2,9 +2,13 @@
 
 ### Domain: Information Retrieval | NLP 
 
+##### Domain Knowledge Figure
+
+![Workflow](https://raw.githubusercontent.com/mykeysid10/Invoice-PDF-QnA-System/main/Workflow.PNG)
+
 ##### Approach I Workflow (Zero Shot): LangChain + GPT
 
-![Domain Knowledge](https://github.com/mykeysid10/Melanoma-Detection/blob/main/sample%20images/domain_knowledge.png)
+![Workflow](https://raw.githubusercontent.com/mykeysid10/Invoice-PDF-QnA-System/main/Workflow.PNG)
 
 ##### Approach I Demo Video:
 
