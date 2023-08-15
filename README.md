@@ -12,4 +12,4 @@
 
 ###### Approach I Demo Video:
 
-https://github.com/mykeysid10/Melanoma-Detection/assets/70707011/405e8cd8-ff17-4ecd-acee-d5145f99e71a
+https://github.com/mykeysid10/Invoice-PDF-QnA-System/assets/70707011/9086deaa-c85f-46e5-87d6-1907659ad7fc
